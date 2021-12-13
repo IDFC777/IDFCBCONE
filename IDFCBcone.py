@@ -196,11 +196,11 @@ else:
     print(" Recharge Amount :        Total limit " )
     print(" 1.     100 INR -------  1 Day (10 Games)")
     print(" 2.     500 INR -------  7 Days(50 Games)")
-    print("*---------*----------*---------*--------*---------*--------*")
+    print("*---------*----------*--------*---------*--------*")
     print("Your custom hack can be made request from us.")
     print("Beware of fraudsters!!!")
     while(True):
-        print("*--------*--------*----------*---------*---------*")
+        print("*--------*--------*-------*---------*---------*")
         print("Hi, IDFC Here")
         print("If you send Payment to any other Person On Telegram ,")
         print(" then IT IS A SCAMMM")
